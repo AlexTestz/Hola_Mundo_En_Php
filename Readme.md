@@ -12,6 +12,6 @@ This project deploys a "Hello World" message on the web using Docker with its Ph
 - Open your preferred console:
 - To run the image, use the following command:
 
-             docker run -p 3000:80 hola-php
+             docker run -p 3000:80 alexmpz/hola-php
              
 - Open a browser and visit http://localhost:3000, where you should see message.
